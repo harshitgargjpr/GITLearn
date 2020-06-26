@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void hello(){
+<<<<<<< HEAD
 	// remote change
+	// locally added line	
 	printf("hello world");
 }
 

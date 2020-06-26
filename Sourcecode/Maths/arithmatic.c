@@ -14,3 +14,7 @@ int div(int x, int y){
 	return x/y;
 }
 
+int fib(int n){
+	// locally added fn
+}
+
