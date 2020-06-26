@@ -19,7 +19,5 @@ void dothingsyoulike(){
 	printf("like the world..");
 	printf("like the world..");
 	printf("like the world..");
-	printf("like the world..");
-	printf("like the world..");
-	printf("like the world..");
+	printf("imp line");
 }
